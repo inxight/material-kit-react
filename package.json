@@ -1,7 +1,7 @@
 {
-  "name": "material-kit-react",
+  "name": "travelbus_www",
   "version": "1.9.0",
-  "description": "Material Kit React. Coded by Creative Tim",
+  "description": "travelbus_www",
   "private": true,
   "main": "src/index.js",
   "dependencies": {
