@@ -1,6 +1,6 @@
 {
   "name": "travelbus_www",
-  "version": "1.9.0",
+  "version": "1.0.0",
   "description": "travelbus_www",
   "private": true,
   "main": "src/index.js",
